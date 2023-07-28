@@ -3,6 +3,7 @@
     list-style-type: none;
     display: flex;
     justify-content: end;
+    margin-bottom: 200px;
 }
 .nav-item{
     margin: 5px;
@@ -32,6 +33,7 @@ a:link {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 30px;
 }
 /* Logo Styling end */
 /* main & btn input Styling start */
@@ -40,15 +42,13 @@ a:link {
     z-index: 3;
     min-height: 44px;
     background: #fff;
-    border: 1px solid #5f6368;
+    border: 0.1px solid #717376;
     box-shadow: none;
     border-radius: 24px;
-    margin: 0 auto;
+    margin: 0px auto;
     width: calc(632px +6px);
     width: 584px;
     max-width: 584px;
-    margin-top: 40px;
-    padding:0 10px 0 10px;
 }
 .main-input:hover{
     box-shadow: 1px 2px 4px grey;
